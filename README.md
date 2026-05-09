@@ -1,18 +1,5 @@
 # Hi there, I'm Aslan 👋
 
-🎓 I'm a Junior Data Scientist with a strong interest in Machine Learning, Data Analysis, and Computer Vision.
-
-💻 I recently completed an internship at the Institute of Digital Technology and Engineering, where I:
-- 🚀 Developed an object detection prototype using YOLO and OpenCV
-- ⚙️ Optimized real-time image processing algorithms
-- 📊 Worked with data: preprocessing, augmentation, annotation
-
-📚 During my training, I completed over 10 end-to-end projects in DS/ML/NLP/CV, including:
-- Customer churn prediction
-- Game sales analysis
-- Milk quality forecasting
-- Toxic comment classification
-- Taxi demand prediction and more!
 
 🚀 I enjoy solving real-world problems with data and constantly work on improving my skills through side projects, Kaggle competitions, and reading articles on [Towards Data Science](https://towardsdatascience.com/).
 
